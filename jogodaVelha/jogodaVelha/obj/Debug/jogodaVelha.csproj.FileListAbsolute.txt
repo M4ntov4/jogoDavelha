@@ -1,0 +1,11 @@
+D:\Atividades C#\jogodaVelha\jogodaVelha\bin\Debug\jogodaVelha.exe.config
+D:\Atividades C#\jogodaVelha\jogodaVelha\bin\Debug\jogodaVelha.exe
+D:\Atividades C#\jogodaVelha\jogodaVelha\bin\Debug\jogodaVelha.pdb
+D:\Atividades C#\jogodaVelha\jogodaVelha\obj\Debug\jogodaVelha.csproj.AssemblyReference.cache
+D:\Atividades C#\jogodaVelha\jogodaVelha\obj\Debug\jogodaVelha.Form1.resources
+D:\Atividades C#\jogodaVelha\jogodaVelha\obj\Debug\jogodaVelha.Properties.Resources.resources
+D:\Atividades C#\jogodaVelha\jogodaVelha\obj\Debug\jogodaVelha.csproj.GenerateResource.cache
+D:\Atividades C#\jogodaVelha\jogodaVelha\obj\Debug\jogodaVelha.csproj.CoreCompileInputs.cache
+D:\Atividades C#\jogodaVelha\jogodaVelha\obj\Debug\jogodaVelha.exe
+D:\Atividades C#\jogodaVelha\jogodaVelha\obj\Debug\jogodaVelha.pdb
+D:\Atividades C#\jogodaVelha\jogodaVelha\obj\Debug\jogodaVelha.EscolherAvatar.resources
